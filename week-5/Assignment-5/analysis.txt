@@ -1,0 +1,21 @@
+Text File Analysis
+Total lines: 2
+Total words: 17
+
+Word frequency:
+hello: 1
+my: 1
+name: 1
+is: 1
+samandar: 1
+and: 1
+i: 2
+am: 1
+19: 1
+years: 1
+old: 1
+study: 1
+at: 1
+astana: 1
+it: 1
+university: 1
